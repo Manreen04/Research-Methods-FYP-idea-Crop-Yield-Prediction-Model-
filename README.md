@@ -9,3 +9,5 @@ Data Sources: IoT sensor data, public agricultural datasets
 Deployment: Desktop-based, with scalable architecture
 
 It is further explained about the system purpose in the documents.
+
+The zip file containing tutorials are small tasks that I performed.
